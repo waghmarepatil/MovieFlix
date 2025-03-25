@@ -43,4 +43,4 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ---
 
-🔗 **Follow me on GitHub**: [your GitHub profile link]
+🔗 **Follow me on GitHub**: [https://github.com/waghmarepatil]
